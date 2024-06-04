@@ -1,2 +1,2 @@
-# Camp_06-04-24
-Unlock the power of web development with our comprehensive tutorial on creating a dynamic landing page using HTML, CSS, and JavaScript!
+PRODIGY_WD_01
+Welcome to my portfolio! This website showcases my skills, projects, and contact information. As a passionate web developer, I'm dedicated to crafting elegant and user-friendly solutions
